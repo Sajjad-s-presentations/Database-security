@@ -1,3 +1,7 @@
+-- Exercise NO2
+-- Sajjad Ranjbar Yazdi 9812223294
+
+
 -- A:
 SELECT section.*, teaches.ID AS instructor_ID
 FROM section
