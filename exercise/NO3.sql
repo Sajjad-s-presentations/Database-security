@@ -1,4 +1,4 @@
--- Exercise NO4
+-- Exercise NO3
 -- Sajjad Ranjbar Yazdi 9812223294
 
 -- A:
