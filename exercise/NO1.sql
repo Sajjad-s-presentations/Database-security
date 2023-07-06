@@ -1,3 +1,6 @@
+-- Exercise NO1
+-- Sajjad Ranjbar Yazdi 9812223294
+
 -- A:
 SELECT instructor.ID, COUNT(teaches.sec_id) AS section_count
 FROM instructor
